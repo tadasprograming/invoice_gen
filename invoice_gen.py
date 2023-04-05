@@ -1,5 +1,5 @@
 from docx import Document
-from scr import get_data
+from scrape import get_data
 #import scrape_rekvizitai
 
 #Pirma surenkam visus duomenis reikalingus sąskaitai
